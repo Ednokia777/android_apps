@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Выбери событие, которое произошло раньше остальных.\nВопросы могут повторяться, пока ты не наберешь 20 очков.
+    За правильный ответ : 1 бал, неправильный : минус 2 бала</string>
+    <string name="leveltwo">Выбери событие, которое произошло позже остальных.\nВопросы могут повторяться, пока ты не наберешь 20 очков.
+    За правильный ответ : 1 бал, неправильный : минус 2 бала</string>
+    <string name="leveloneEnd">"Уровень пройден."</string>
+    <string name="leveltwoEnd">"Уровень пройден"!</string>
+    <string name="level3End">"Уровень пройден"!</string>
+    <string name="level4End">"Уровень пройден"!</string>
+    <string name="level5End">"Уровень пройден"!</string>
+    <string name="level6End">"Уровень пройден"</string>
+    <string name="level7End">"Уровень пройден"!</string>
+    <string name="level8End">"Уровень пройден"!</string>
+    <string name="level9End">"Уровень пройден"!</string>
+    <string name="level10End">"Уровень пройден"!</string>
+    <string name="level11End">"Уровень пройден"!</string>
+    <string name="level12End">"Уровень пройден"!</string>
+    <string name="level13End">"Уровень пройден"!</string>
+    <string name="level14End">"Уровень пройден"!</string>
+    <string name="level15End">"Уровень пройден"!</string>
+    <string name="level16End">"Уровень пройден"!</string>
+    <string name="level17End">"Викторина пройдена, поздравляю"!\n
+    Если понравилась игра, ты можешь оценить ее. Тебе не сложно а мне приятно(^_^).\n
+        Огромное тебе спасибо за игру и отличного настроения!
+    </string>
+</resources>

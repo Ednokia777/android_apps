@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_array">
+        <item>Подгорица</item>
+        <item>Тиват</item>
+        <item>Будва</item>
+        <item>Котор</item>
+        <item>Жабляк</item>
+    </string-array>
+
+    <string-array name="beach_array">
+        <item>Могрен</item>
+        <item>Королевский пляж</item>
+    </string-array>
+
+    <string-array name="sight_array">
+        <item>Церковь Трифона</item>
+        <item>Свети-Стефан</item>
+        <item>Пераст</item>
+        <item>Черное озеро</item>
+    </string-array>
+
+    <string-array name="food_array">
+        <item>Чевачпичи</item>
+        <item>Гирос</item>
+        <item>Фрукты</item>
+    </string-array>
+
+    <string-array name="price_array">
+        <item>Жилье</item>
+        <item>Продукты</item>
+        <item>Услуги</item>
+    </string-array>
+
+    <string-array name="home_array">
+        <item>Квартиры</item>
+        <item>Дома</item>
+    </string-array>
+
+
+</resources>

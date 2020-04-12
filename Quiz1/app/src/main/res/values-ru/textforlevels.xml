@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //1ый уровень
+
+    <string name="lvl1text862">Призвание Рюрика на княжение</string>
+    <string name="lvl1text882">Взятие Киева Олегом</string>
+    <string name="lvl1text957">Крещение Ольги</string>
+    <string name="lvl1text988">Крещение Руси</string>
+    <string name="lvl1text1147"> Основание Москвы</string>
+    <string name="lvl1text1223">Битва на реке Калке</string>
+    <string name="lvl1text1240">Невская битва</string>
+    <string name="lvl1text1242">Ледовое побоище</string>
+    <string name="lvl1text1380">Куликовская битва</string>
+    <string name="lvl1text1480">Стояние на реке Угре</string>
+    <string name="lvl1text1547">Воцарение Ивана IV</string>
+    <string name="lvl1text1549">Создание Земского собора</string>
+    <string name="lvl1text1552">Взятие Казани</string>
+    <string name="lvl1text1556">Присоединение Астраханского Ханства</string>
+    <string name="lvl1text1558">Начало Ливонской войны</string>
+    <string name="lvl1text1565">Введение опричнины</string>
+
+    //2ой уровень
+
+    <string name="lvl2text860">Поход русов на Константинопль</string>
+    <string name="lvl2text945">Восстание древлян</string>
+    <string name="lvl2text1043">Поход Владимира Ярославовича на Константинопль</string>
+    <string name="lvl2text1097">Съезд Князей в Любече</string>
+    <string name="lvl2text1169">Поход Андрея Боголюбского на Киев</string>
+    <string name="lvl2text1237">Начало татаро-монгольского иго</string>
+    <string name="lvl2text1238">Битва на реке Сити</string>
+    <string name="lvl2text1589">Утверждение Патриаршества</string>
+    <string name="lvl2text1598">Смерть Федора Иоановича</string>
+
+    //3ий уровень
+
+    <string name="lvl3text1136">Создание республики в Новгороде</string>
+    <string name="lvl3text1165">Постройка храма Покрова на Нерли</string>
+    <string name="lvl3text1185">Слово о полку Игореве</string>
+    <string name="lvl3text1199">Объединение Волынского и Галицкого княжеств.</string>
+    <string name="lvl3text1202">Образование Ордена меченосцев.</string>
+    <string name="lvl3text1237">Образование Ливонского ордена</string>
+    <string name="lvl3text1243">Образование государства Золотая Орда</string>
+    <string name="lvl3text1283">Образование Московского княжества.</string>
+    <string name="lvl3text1378">Битва на реке Воже.</string>
+    <string name="lvl3text1382">Разгром Москвы Тохтамышем.</string>
+    <string name="lvl3text1410">Грюнвальдская битва</string>
+    <string name="lvl3text1453">Падение Византийской империи.</string>
+    <string name="lvl3text1463">Присоединение к Москве Ярославля.</string>
+    <string name="lvl3text1478">Присоединение Новгорода Великого к Москве.</string>
+    <string name="lvl3text1485">Присоединение Твери к Москве.</string>
+    <string name="lvl3text1497">Составление «Судебника» Ивана III.</string>
+    <string name="lvl3text1551">Стоглавый собор</string>
+    <string name="lvl3text1555">Начало строительства собора Василия Блаженного</string>
+    <string name="lvl3text1561">Разгром Ливонского ордена</string>
+    <string name="lvl3text1564">Начало книгопечатания на Руси.</string>
+    <string name="lvl3text1581">Начало похода Ермака в Сибирь</string>
+    <string name="lvl3text1597">Указ об «урочных летах»</string>
+
+    //4ый уровень
+    <string name="lvl4text1582">Ям Запольское перемирие</string>
+    <string name="lvl4text1583">Плюсское перемирия</string>
+    <string name="lvl4text1584">Начало царствование Федора Иоанновича</string>
+    <string name="lvl4text1598">начало Правление Бориса Годунова</string>
+    <string name="lvl4text1603">Востание Хлопка</string>
+    <string name="lvl4text1605">Начало правления Лжедмитрия I</string>
+    <string name="lvl4text1606">Начало правления Василия Шуйского</string>
+    <string name="lvl4text1607">Окончание восстания Ивана Болотникова</string>
+    <string name="lvl4text1610">Появление семибоярщины</string>
+    <string name="lvl4text1611">Первое ополчение П.Ляпунова</string>
+    <string name="lvl4text1612">Освобождение Москвы от поляков</string>
+    <string name="lvl4text1613">Избрание Земским собором Михаила Романова</string>
+
+    //5ый уровень
+    <string name="lvl5text1617">Заключение Столбовского мира</string>
+    <string name="lvl5text1618">Деулинское перемирие</string>
+    <string name="lvl5text1632">Начало Смоленской войны</string>
+    <string name="lvl5text1645">Начало правления царя Алексея Михайловича</string>
+    <string name="lvl5text1648">Соляной бунт</string>
+    <string name="lvl5text1649">Принятие Соборного уложения</string>
+    <string name="lvl5text1653">Начало церковного раскола</string>
+    <string name="lvl5text1654">Переяславская рада</string>
+    <string name="lvl5text1662">Медный бунт</string>
+    <string name="lvl5text1667">Начало восстания Степана Разина</string>
+    <string name="lvl5text1672">Рождения Петра I</string>
+    <string name="lvl5text1682">Отмена местничества</string>
+    <string name="lvl5text1686">Заключение "Вечного мира" с Польшей</string>
+    <string name="lvl5text1697">Начало Великого посольства</string>
+    <string name="lvl5text1698">Последнее стрелецкое восстание в Москве</string>
+    <string name="lvl5text1700">Начало северной войны</string>
+
+    //6ый уровень
+    <string name="lvl6text1703">Основание Санкт Петербурга</string>
+    <string name="lvl6text1707">Начало Пугачевского восстания</string>
+    <string name="lvl6text1708">Битва при Лесной</string>
+    <string name="lvl6text1709">Полтавская битва</string>
+    <string name="lvl6text1710">начало Прутского похода</string>
+    <string name="lvl6text1711">Учреждение Сената</string>
+    <string name="lvl6text1714">Указ о единонаследии</string>
+    <string name="lvl6text1720">Битва при Гренгаме</string>
+    <string name="lvl6text1721">Петр I стали императором</string>
+    <string name="lvl6text1722">Принятие "Табеля о рангах"</string>
+    <string name="lvl6text1727">Начало правления Петра II</string>
+    <string name="lvl6text1755">Открытие МГУ</string>
+    <string name="lvl6text1756">Начало семилетней войны</string>
+    <string name="lvl6text1762">Начало правления Екатерины II</string>
+    <string name="lvl6text1770">Битва при Часме</string>
+    <string name="lvl6text1773">Пугачевское восстание</string>
+    <string name="lvl6text1783">Присоединение Крыма к России</string>
+    <string name="lvl6text1790">Публикация книги А.Н. Радищева</string>
+    <string name="lvl6text1791">Ясский мир</string>
+    <string name="lvl6text1794">Восстание Тадеуша Костюшко</string>
+    <string name="lvl6text1799">Начало Итальянского похода А.В.Суворова</string>
+
+    //7-ой уровень
+    <string name="lvl7text1711">День рождения М.В.Ломоносова</string>
+    <string name="lvl7text1714">Сражение при мыса Гангут</string>
+    <string name="lvl7text1718">Учреждение коллегий</string>
+    <string name="lvl7text1721">Ништадский мир</string>
+    <string name="lvl7text1722">Подписание указа о наследии престола</string>
+    <string name="lvl7text1725">Основание Академии наук в Петербурге</string>
+    <string name="lvl7text1727">Окончание правления Екатерины I</string>
+    <string name="lvl7text1730">Начало правления Анны Иоановны</string>
+    <string name="lvl7text1741">Начало правления Елизаветы Петровны</string>
+    <string name="lvl7text1757">Основание Академии художеств в Петербурге</string>
+    <string name="lvl7text1761">Начало правления Петра III</string>
+    <string name="lvl7text1762">Манифест о вольности дворянской</string>
+    <string name="lvl7text1774">Кючук Кайнарджийский мир</string>
+    <string name="lvl7text1775">Проведение губернской реформы</string>
+    <string name="lvl7text1782">Открытие памятника Петру I «Медный всадник»</string>
+    <string name="lvl7text1785">Издание жалованных грамот дворянству</string>
+    <string name="lvl7text1790">Взятие Измаила</string>
+    <string name="lvl7text1792">Ясский мирный договор</string>
+    <string name="lvl7text1796">Начало правление Павла I</string>
+    <string name="lvl7text1797">Издание манифеста о трехдневной барщине</string>
+
+    //8-ой уровень
+    <string name="lvl8text1803">Первая русская кругосветная экспедиция</string>
+    <string name="lvl8text1804">Первая русско-иранская война</string>
+    <string name="lvl8text1805">Поражение при Аустерлице</string>
+    <string name="lvl8text1807">Поражение при Фридландом</string>
+    <string name="lvl8text1808">Присоединение Финляндии</string>
+    <string name="lvl8text1812">Бухаресткий мир</string>
+    <string name="lvl8text1813">Битва народов</string>
+    <string name="lvl8text1815">Дарование Александром I конституции Польше</string>
+    <string name="lvl8text1816">Начало деятельности Союза спасения</string>
+    <string name="lvl8text1818">Начало деятельности Союза благоденствия</string>
+    <string name="lvl8text1821">День рождения Ф.M.Достоевского</string>
+    <string name="lvl8text1825">Конец правления Александра I</string>
+    <string name="lvl8text1828">Туркманчайский мир</string>
+    <string name="lvl8text1829">Адрианопольский мир</string>
+    <string name="lvl8text1837">Открытие железной дооги Петербург - Царское село</string>
+    <string name="lvl8text1851">Открытие железной дооги Петербург - Москва</string>
+    <string name="lvl8text1853">Сражение при Синопе</string>
+    <string name="lvl8text1856">Окончание Крымской войны</string>
+    <string name="lvl8text1864">Конец Кавказской войны</string>
+
+    //9-ый уровень
+    <string name="lvl9text1801">Начало правления Александра I</string>
+    <string name="lvl9text1802">Учреждение министерств вместо коллегий</string>
+    <string name="lvl9text1803">Указ о «вольных хлебопашцах»</string>
+    <string name="lvl9text1805">Участие в 3-ей антинаполеоновской коалиции</string>
+    <string name="lvl9text1807">Тильзитский мир</string>
+    <string name="lvl9text1810">Создание Государственного совета</string>
+    <string name="lvl9text1812">Отечественная война</string>
+    <string name="lvl9text1813">Начало заграничных походов</string>
+    <string name="lvl9text1815">Присоединение Польши</string>
+    <string name="lvl9text1816">Начало создания военных поселений</string>
+    <string name="lvl9text1817">Начало Кавказкой войны</string>
+    <string name="lvl9text1820">Открытие Антарктиды</string>
+    <string name="lvl9text1825">Восстание декабристов</string>
+    <string name="lvl9text1828">Туркманчайский мир</string>
+    <string name="lvl9text1840">День рождения П.И. Чайковского</string>
+    <string name="lvl9text1853">Начало Крымской войны</string>
+
+    //10-ый уровень
+    <string name="lvl10text1813">Гюлистанский мир</string>
+    <string name="lvl10text1825">Начало правление Николая I</string>
+    <string name="lvl10text1855">Начало правление Александра II</string>
+    <string name="lvl10text1856">Парижский конгресс</string>
+    <string name="lvl10text1861">Отмена крепостного права</string>
+    <string name="lvl10text1862">Образование «Могучей кучки»</string>
+    <string name="lvl10text1864">Земская, судебная и школьная реформы</string>
+    <string name="lvl10text1867">Продажа Аляски США</string>
+    <string name="lvl10text1870">Реформа городского самоуправления</string>
+    <string name="lvl10text1873">Создание «Союза трех императоров»</string>
+    <string name="lvl10text1878">Сан-Стефанский мирный договор</string>
+    <string name="lvl10text1881">Начало правления Александра III</string>
+    <string name="lvl10text1889">Принятие «Положения о земских начальниках»</string>
+    <string name="lvl10text1891">Начало строительства ТРАНСИБ ж/д магистрали</string>
+    <string name="lvl10text1894">Начало Правление Николая II</string>
+    <string name="lvl10text1895">Создание «Союза за освобождение рабочего класса»</string>
+    <string name="lvl10text1897">Первая перепись населения</string>
+    <string name="lvl10text1898">I съезд РСДРП</string>
+
+    //11-ый уровень
+    <string name="lvl11text1856">Основание Третьяковской галлереи</string>
+    <string name="lvl11text1858">Айгунский договор</string>
+    <string name="lvl11text1860">Пекинский договор</string>
+    <string name="lvl11text1861">Появление организации «Земля и воля»</string>
+    <string name="lvl11text1869">Открытие переодической таблицы Д. И. Менделеевым</string>
+    <string name="lvl11text1874">Проведение военной реформы</string>
+    <string name="lvl11text1878">Берлинский конгресс</string>
+    <string name="lvl11text1879">Оформление Тройственного союза</string>
+    <string name="lvl11text1881">Убийство Александра II</string>
+    <string name="lvl11text1882">Отмена временнообязанного положения крестьян</string>
+    <string name="lvl11text1885">Морозовская стачка</string>
+    <string name="lvl11text1887">Принятие циркуляра «о кухаркиных детях»</string>
+    <string name="lvl11text1891">Начало оформление франко-русского союза</string>
+    <string name="lvl11text1894">Конец правление Александра III</string>
+    <string name="lvl11text1895">Изобретение А.С. Поповым радиосвязи</string>
+    <string name="lvl11text1897">Денежная реформа С.Ю. Витте</string>
+    <string name="lvl11text1899">Гаагская мирная конференция</string>
+
+    //12 -ый уровень
+    <string name="lvl12text1902">Создание партии эсеров</string>
+    <string name="lvl12text1903">II съезд РСДРП</string>
+    <string name="lvl12text1904">Начало войны с Японией</string>
+    <string name="lvl12text1905january">Кровавое воскресенье</string>
+    <string name="lvl12text1905june">Восстание на броненосце "Потемкин"</string>
+    <string name="lvl12text1905august">Портсмутского мир</string>
+    <string name="lvl12text1905october">Манифест «Об усовершенствовании государственного порядка»</string>
+    <string name="lvl12text1905december">Вооруженное восстание в Москве</string>
+    <string name="lvl12text1906">Указ о выходе крестьян из общины</string>
+    <string name="lvl12text1907">Образование Антанты</string>
+    <string name="lvl12text1914">Начало первой мировой войны</string>
+    <string name="lvl12text1915">Создание Прогрессивного блока</string>
+    <string name="lvl12text1917mart">Отречение Николая II от престола</string>
+    <string name="lvl12text1917august">Корниловский мятеж</string>
+    <string name="lvl12text1917october">Восстание в Петрограде</string>
+    <string name="lvl12text1918mart">Брестскй мир</string>
+    <string name="lvl12text1918jule">Первая Конституция РСФСР</string>
+    <string name="lvl12text1921febrary">Восстание в Кронштадте</string>
+    <string name="lvl12text1921mart">Переход к нэпу</string>
+    <string name="lvl12text1922">Генуэзская конференция</string>
+
+    //13-ый уровень
+    <string name="lvl13text1903">Создание «Союза земцев конституционалистов»</string>
+    <string name="lvl13text1904august">Сражение под городом Ляоян</string>
+    <string name="lvl13text1904september">Сражение на реке Шахэ</string>
+    <string name="lvl13text1905february">Поражение под Мукденом</string>
+    <string name="lvl13text1905may">Цусимское сражение</string>
+    <string name="lvl13text1905november">Создание «Союза русского народа»</string>
+    <string name="lvl13text1906">Деятельность I Государственной думы</string>
+    <string name="lvl13text1907">Роспуск II Государственной думы</string>
+    <string name="lvl13text1912">Ленский расстрел.</string>
+    <string name="lvl13text1916">Брусиловский прорыв</string>
+    <string name="lvl13text1917february">Февральская революция</string>
+    <string name="lvl13text1917may">Образование 1-го Временного правительства</string>
+    <string name="lvl13text1917june">Деятельность I Всероссийского съезда Советов</string>
+    <string name="lvl13text1917september">Провозглашение России республикой</string>
+    <string name="lvl13text1918">Расстрел царской семьи</string>
+    <string name="lvl13text1921">Рижский мирный договор</string>
+    <string name="lvl13text1922">Образование СССР</string>
+    <string name="lvl13text1925">XIV съезд ВКП(б)</string>
+    <string name="lvl13text1927">XV съезд ВКП(б)</string>
+    <string name="lvl13text1928">Начало первой 5-летки</string>
+
+    //14-ый уровень
+    <string name="lvl14text1924">Первая Конституция СССР</string>
+    <string name="lvl14text1929">Начало сплошной коллективизации</string>
+    <string name="lvl14text1930">Завершение строительства Турксиба</string>
+    <string name="lvl14text1933"> Начало второй пятилетки</string>
+    <string name="lvl14text1934september">Принятие СССР в Лигу Наций</string>
+    <string name="lvl14text1934december">Убийство С. М. Кирова</string>
+    <string name="lvl14text1936">Принятие второй Конституции СССР</string>
+    <string name="lvl14text1939august">пакт о ненападении с Германией</string>
+    <string name="lvl14text1939september">Начало второй мировой войны</string>
+    <string name="lvl14text1939november">Советско-финская война</string>
+    <string name="lvl14text1941june">Начало Великой Отечественной войны</string>
+    <string name="lvl14text1941jule">Смоленское сражение</string>
+    <string name="lvl14text1941december"> Контрнаступление под Москвой</string>
+    <string name="lvl14text1943february">освобождение Сталинграда</string>
+    <string name="lvl14text1943jule">Курская битва</string>
+    <string name="lvl14text1943september">Битва за Днепр</string>
+    <string name="lvl14text1944january">Окончательное снятие блокады Ленинграда</string>
+    <string name="lvl14text1944june">Операция «Багратион»</string>
+    <string name="lvl14text1944august">Ясско-Кишиневская операция</string>
+    <string name="lvl14text1945">Висло-Одерская операция</string>
+
+    //15-ый уровень
+    <string name="lvl15text1943">Тегеранская конференция</string>
+    <string name="lvl15text1944">Львовско Сандомирская операция</string>
+    <string name="lvl15text1945february">Ялтинская конференция</string>
+    <string name="lvl15text1945april">Берлинская операция</string>
+    <string name="lvl15text1945may8">Капитуляция Германии</string>
+    <string name="lvl15text1945may9">Окончание Великой Отечественной войны</string>
+    <string name="lvl15text1945jule">Потсдамская конференция</string>
+    <string name="lvl15text1945august">Разгром Японии</string>
+    <string name="lvl15text1945september">Окончание Второй мировой войны</string>
+    <string name="lvl15text1946">Начало «холодной войны»</string>
+    <string name="lvl15text1948">Разрыв дипломатических отношений с Югославией</string>
+    <string name="lvl15text1949">Создание СЭВ</string>
+    <string name="lvl15text1950">Начало войны в Корее</string>
+    <string name="lvl15text1953mart">Смерть И. С. Сталина</string>
+    <string name="lvl15text1953august">Испытание в СССР водородной бомбы</string>
+    <string name="lvl15text1953september">Избрание Н. С. Хрущева первым секретарем ЦК КПСС</string>
+    <string name="lvl15text1954">Запуск Обнинской АЭС</string>
+    <string name="lvl15text1955">Образование ОВД</string>
+    <string name="lvl15text1956february">ХХ съезд КПСС</string>
+    <string name="lvl15text1956october">Восстание в Венгрии</string>
+
+    //16-ый уровень
+    <string name="lvl16text1949">Создание в СССР ядерного оружия</string>
+    <string name="lvl16text1957">Запуск первого искуственного спутника</string>
+    <string name="lvl16text1961april">Полет Ю. А. Гагарина в космос</string>
+    <string name="lvl16text1961october">XXII съезд КПСС</string>
+    <string name="lvl16text1962">Карибский кризис</string>
+    <string name="lvl16text1963">Терешкова, первая женщина в космосе</string>
+    <string name="lvl16text1965">Начало реформы А.Н Косыгина</string>
+    <string name="lvl16text1968">Ввод войск стран-участниц ОВД в Чехословакию</string>
+    <string name="lvl16text1972">Подписание ОСВ-1</string>
+    <string name="lvl16text1975">Совещание по безопасности в Хельсинки</string>
+    <string name="lvl16text1979june">Подписание ОСВ-2</string>
+    <string name="lvl16text1979december">Начало войны в Афганистане</string>
+    <string name="lvl16text1980">Олимпийские игры в Москве</string>
+    <string name="lvl16text1985">Избрание М.С. Горбачева ГенСеком ЦК КПСС</string>
+    <string name="lvl16text1986">Авария на Чернобыльской АЭС</string>
+    <string name="lvl16text1988">Армянский погром в Сумгаите</string>
+    <string name="lvl16text1989">Первый съезд народных депутатов СССР</string>
+    <string name="lvl16text1990mart">М.С. Горбачева - президент СССР</string>
+    <string name="lvl16text1990june">Декларация о государственном суверенитете</string>
+    <string name="lvl16text1991">Избрание Б.Н. Ельцина Президентом</string>
+
+    //17-ый уровень
+    <string name="lvl17text1991jule">Подписание договора СНВ 1</string>
+    <string name="lvl17text1991august">Попытка государственного переворота (ГКЧП)</string>
+    <string name="lvl17text1991december8">Беловежские соглашение о роспуске СССР</string>
+    <string name="lvl17text1991december25">Сложение М.С. Горбачевым полномочий Президента СССР</string>
+    <string name="lvl17text1992">Начало проведения реформы Е.Т. Гайдара</string>
+    <string name="lvl17text1993">Принятие первой конститутуции РФ</string>
+    <string name="lvl17text1994june">Присоединение РФ к «Партнерству во имя мира»</string>
+    <string name="lvl17text1994december">Начало первой чеченской войны</string>
+    <string name="lvl17text1996">Вступление России в Совет Европы</string>
+    <string name="lvl17text1998">Дефолт в России</string>
+    <string name="lvl17text1999">Начало второй чеченской войны</string>
+    <string name="lvl17text2000">Избрание В.В. Путина Президентом РФ (впервые)</string>
+    <string name="lvl17text2001">Затопление Орбитальной станции "МИР"</string>
+    <string name="lvl17text2005">Создание Общественной палаты</string>
+    <string name="lvl17text2008january">Введение ЕГЭ</string>
+    <string name="lvl17text2008mart">Избрание Д.А. Медведева Президентом РФ</string>
+    <string name="lvl17text2008august">Вторжение грузинских войск в Южную Осетию</string>
+    <string name="lvl17text2009">Авария на Саяно-Шушенской ГЭС</string>
+    <string name="lvl17text2014february">Олимпийские игры в Сочи</string>
+    <string name="lvl17text2014mart">Вхождение Крыма в состав РФ</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_city"
+            android:icon="@drawable/city"
+            android:title="@string/menu_city" />
+        <item
+            android:id="@+id/nav_beaches"
+            android:icon="@drawable/beach"
+            android:title="@string/menu_beaches" />
+        <item
+            android:id="@+id/nav_sight"
+            android:icon="@drawable/sight"
+            android:title="@string/menu_sight" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/food"
+            android:title="@string/menu_food" />
+    </group>
+
+    <item android:title="Разное">
+        <menu>
+            <item
+                android:id="@+id/nav_price"
+                android:icon="@drawable/price"
+                android:title="@string/menu_price" />
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/home"
+                android:title="@string/menu_home" />
+        </menu>
+    </item>
+
+</menu>
